@@ -1,0 +1,59 @@
+.login{
+    top: 20%;
+    bottom: 30%;
+    left: 30%;
+    right: 30%;
+    height: 40%;
+    width: 40%;
+    position: absolute;
+}
+
+.login h3{
+    text-align: center;
+}
+
+.cadastro h3{
+    text-align: center;
+}
+
+.login #in{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cadastro #in{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.login #btn-entrar{
+    text-align: center;   
+}
+
+.login #btn-entrar input{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.cadastro{
+    top: 20%;
+    bottom: 20%;
+    left: 30%;
+    right: 30%;
+    height: 40%;
+    width: 40%;
+    position: absolute;
+}
+
+.card{
+    height: 15%;
+    width: 100%;
+    border: 10px;
+    position: absolute;
+}
+
+/* #escrever{
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle;
+} */
